@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "SQLite",
+      "database": "${workspaceFolder:nodejs-crud}/database/database.sqlite"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
